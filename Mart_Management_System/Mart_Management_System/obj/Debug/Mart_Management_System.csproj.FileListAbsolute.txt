@@ -1,0 +1,12 @@
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\bin\Debug\Mart_Management_System.exe.config
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\bin\Debug\Mart_Management_System.exe
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\bin\Debug\Mart_Management_System.pdb
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\bin\Debug\Guna.UI2.dll
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.csprojResolveAssemblyReference.cache
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.Login_Form.resources
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.Properties.Resources.resources
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.csproj.GenerateResource.Cache
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.exe
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.pdb
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.Registration_Form.resources
+E:\Final Year\Super Mart\Mart_Management_System\Mart_Management_System\obj\Debug\Mart_Management_System.Signup_Form.resources
